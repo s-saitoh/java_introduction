@@ -1,0 +1,5 @@
+contextsDir=/Volumes/pleiades-4.7.1-java-mac-jre_20171019/Eclipse_4.7.1.app/Contents/tomcat/8/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/Volumes/pleiades-4.7.1-java-mac-jre_20171019/Eclipse_4.7.1.app/Contents/tomcat/8/conf/server.xml
+tomcatDir=/Volumes/pleiades-4.7.1-java-mac-jre_20171019/Eclipse_4.7.1.app/Contents/tomcat/8
+tomcatVersion=tomcatV8
